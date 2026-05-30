@@ -22,9 +22,4 @@ See `INSTALL.md` for detailed setup instructions.
 ## Usage
 1. Send DXF file to WhatsApp bot
 2. Select end mill size
-3. Choose material
-4. Bot generates G-codehsjsjs
-5. Load in DSPA11
-
-## Author
-sanjivmesse
+3l
