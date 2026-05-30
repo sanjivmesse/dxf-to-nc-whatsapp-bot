@@ -1,0 +1,14 @@
+# WhatsApp Bot & DXF Processing
+WhatsApp-API==1.20.0
+pywhatkit==6.4
+DXFEngine==0.9.0
+campiler==1.5.0
+requests==2.31.0
+numpy==1.24.3
+scipy==1.11.0
+Pillow==10.0.0
+Flask==2.3.2
+gunicorn==21.2.0
+python-dotenv==1.0.0
+raspberry-gpio-python==0.7.0
+pySerial==3.5
